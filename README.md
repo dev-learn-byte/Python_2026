@@ -1,6 +1,6 @@
-# Python 2025 - Curso Básico
+# Python_2026
 
-Repositorio con ejercicios y ejemplos de Python básico.
+Repositorio con ejercicios y ejemplos de Python básico - Repaso 2026
 
 ## 📚 Contenido
 
