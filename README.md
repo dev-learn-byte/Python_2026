@@ -22,4 +22,4 @@ Cada archivo contiene ejemplos y ejercicios sobre un tema específico de Python.
 Este es un proyecto de aprendizaje personal para dominar los fundamentos de Python.
 
 ---
-**Fecha de inicio:** 2025
+
